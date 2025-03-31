@@ -23,7 +23,7 @@ Clone the repo:
 
 bash
 Copy
-git clone https://github.com/your-username/cyberpunk-todo-app.git
+git clone (https://github.com/KomaneKMJ/To_Do_List)
 Open index.html in your browser.
 
 🎮 How to Use
